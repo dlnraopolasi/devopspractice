@@ -1,0 +1,2 @@
+This is the first line
+line 2 is added for next session
